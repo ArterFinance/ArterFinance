@@ -1,0 +1,14 @@
+{
+  "name": "arter-market-check",
+  "private": true,
+  "type": "module",
+  "description": "The checks Arter runs before it lets money into a Morpho Blue market on Robinhood Chain.",
+  "scripts": {
+    "test": "node --test test/*.test.mjs",
+    "markets": "node examples/check-markets.mjs",
+    "position": "node examples/position.mjs"
+  },
+  "dependencies": {
+    "viem": "2.38.0"
+  }
+}
