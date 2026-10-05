@@ -2,7 +2,7 @@
 
 **Assets That Earn.** Lend USDG and borrow against tokenized stocks on Robinhood Chain, only in lending markets that pass an on-chain safety check. Fully open source: the website and the market check are both in this repository.
 
-Website: [arter.finance](https://arter.finance) · X: [@arter](https://x.com/arter) · Token: `$ARTER`
+Website: [arter.finance](https://arter.finance) · X: [@arterfinance](https://x.com/arterfinance) · Token: `$ARTER`
 
 ## The problem
 
@@ -109,12 +109,12 @@ scripts/                  asset resolver, logo and brand renderers
 | Morpho adaptive curve rate model | `0x2BD3d5965B26B51814AC95127B2b80dD6CcC0fa1` |
 | Morpho Chainlink oracle factory | `0xB7c16F6F8cF531447Bf27Ca7220f981E79C9cdF2` |
 | USDG | `0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168` |
-| $ARTER token | Published at launch. Only trust the address shown on arter.finance and [@arter](https://x.com/arter). |
+| $ARTER token | Published at launch. Only trust the address shown on arter.finance and [@arterfinance](https://x.com/arterfinance). |
 
 ## Security and status
 
 - The check lowers one specific risk, oracle manipulation. It does not remove market risk, liquidation risk, issuer risk on tokenized stocks (issuers can pause or block tokens) or smart-contract risk in Morpho itself.
-- Found a vulnerability? Please reach us privately on [@arter](https://x.com/arter) before opening a public issue.
+- Found a vulnerability? Please reach us privately on [@arterfinance](https://x.com/arterfinance) before opening a public issue.
 
 ## Contributing
 

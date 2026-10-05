@@ -23,8 +23,8 @@ export const BRAND = {
   tagline: "Transform tokenized assets into productive capital. Earn 3-7% APY. Compounding daily. No lock-ups.",
   description:
     "Arter Finance turns tokenized gold, treasuries and stocks on Robinhood Chain into productive capital: yield vaults, borrowing against your holdings and liquidity deployment. Target 3-7% APY, compounding daily, no lock-ups.",
-  x: "https://x.com/arter",
-  xHandle: "@arter",
+  x: "https://x.com/arterfinance",
+  xHandle: "@arterfinance",
   ca: CA,
 } as const;
 
